@@ -1,11 +1,11 @@
 
-# TEST: "Tita Media - Frontend"
+# "Melody - Music Store"
 
 Landing SNEAK Portfolio
 
 ## Starting with 🚀
 
-git clone https://github.com/Mrdaniel01/sneak-portfolio-prueba-juan-rios.git
+git clone https://github.com/Mrdaniel01/melody-music-stores.git
 
 ## Installation 🔧
 
@@ -17,7 +17,7 @@ Open index.html file on your browser
 
 ## Deploy 📦
 
-* https://jdrios-dev.github.io/sneak-portfolio-prueba-juan-rios/
+* https://jdrios-dev.github.io/melody-music-store/
 
 ## Built with 🛠️
 
