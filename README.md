@@ -1,7 +1,7 @@
 
 # "Melody - Music Store"
 
-Landing SNEAK Portfolio
+Melody - Music Store
 
 ## Starting with 🚀
 
